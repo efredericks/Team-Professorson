@@ -11,5 +11,3 @@ Project description (~1 paragraph)
 ## Prerequisites
 
 ## Run Instructions
-
-I am an update. Hoooo weeeeee.  Jokes.
